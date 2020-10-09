@@ -17,6 +17,7 @@ def home():
     :return:        подствляет шаблон 'home.html'
     """
     return render_template('home.html')
+    # 123
 
 
 # Если мы работаем в автономном режиме, запускаем приложение
